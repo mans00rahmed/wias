@@ -1,2 +1,5 @@
-# wias
-whoosh indexing and searching
+# WIAS - Whoosh Indexing And Searching
+<hr>
+
+## Prereq :
+`pip install Whoosh`
